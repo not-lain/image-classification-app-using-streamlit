@@ -1,1 +1,1 @@
-# image-classification-using-streamlit-projectproject
+# image-classification-app-using-streamlit
