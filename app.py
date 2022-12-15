@@ -51,9 +51,9 @@ def predict_class(image, model):
 
 model = load_model()
 
-st.title('Flower Classifier')
+st.title('satelite image clssifier')
 
-file = st.file_uploader("Upload an image of a flower", type=["jpg", "png"])
+file = st.file_uploader("Upload an image of a satellite", type=["jpg", "png"])
 
 
 if file is None:
